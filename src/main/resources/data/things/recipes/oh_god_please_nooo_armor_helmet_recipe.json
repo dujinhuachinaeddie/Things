@@ -1,0 +1,29 @@
+{
+  "group": "things",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "3 5"
+  ],
+  "key": {
+    "0": {
+      "item": "things:oh_god_please_nooo_ingot"
+    },
+    "1": {
+      "item": "things:oh_god_please_nooo_ingot"
+    },
+    "2": {
+      "item": "things:oh_god_please_nooo_ingot"
+    },
+    "3": {
+      "item": "things:oh_god_please_nooo_ingot"
+    },
+    "5": {
+      "item": "things:oh_god_please_nooo_ingot"
+    }
+  },
+  "result": {
+    "item": "things:oh_god_please_nooo_armor_helmet",
+    "count": 1
+  }
+}

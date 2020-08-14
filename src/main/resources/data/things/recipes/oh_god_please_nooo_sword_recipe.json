@@ -1,0 +1,24 @@
+{
+  "group": "things",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0",
+    "1",
+    "2"
+  ],
+  "key": {
+    "0": {
+      "item": "things:oh_god_please_nooo_ingot"
+    },
+    "1": {
+      "item": "things:oh_god_please_nooo_ingot"
+    },
+    "2": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "things:oh_god_please_nooo_sword",
+    "count": 1
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "parent": "item/handheld",
+  "textures": {
+    "layer0": "things:items/oh_god_please_nooo_axe"
+  }
+}

@@ -1,0 +1,229 @@
+{
+  "id_map": {},
+  "mod_elements": [
+    {
+      "name": "Oh_GOD_Please_NOOOIngot",
+      "type": "item",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "oh_god_please_nooo_ingot"
+    },
+    {
+      "name": "Oh_GOD_Please_NOOOOre",
+      "type": "block",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "oh_god_please_nooo_ore"
+    },
+    {
+      "name": "Oh_GOD_Please_NOOOOreBlock",
+      "type": "block",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "oh_god_please_nooo_ore_block"
+    },
+    {
+      "name": "Oh_GOD_Please_NOOOOreBlockRecipe",
+      "type": "recipe",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "oh_god_please_nooo_ore_block_recipe"
+    },
+    {
+      "name": "Oh_GOD_Please_NOOOBlockOreRecipe",
+      "type": "recipe",
+      "sortid": 5,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "oh_god_please_nooo_block_ore_recipe"
+    },
+    {
+      "name": "Oh_GOD_Please_NOOOOreSmelting",
+      "type": "recipe",
+      "sortid": 6,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "oh_god_please_nooo_ore_smelting"
+    },
+    {
+      "name": "Oh_GOD_Please_NOOOPickaxe",
+      "type": "tool",
+      "sortid": 7,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "oh_god_please_nooo_pickaxe"
+    },
+    {
+      "name": "Oh_GOD_Please_NOOOAxe",
+      "type": "tool",
+      "sortid": 8,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "oh_god_please_nooo_axe"
+    },
+    {
+      "name": "Oh_GOD_Please_NOOOSword",
+      "type": "tool",
+      "sortid": 9,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "oh_god_please_nooo_sword"
+    },
+    {
+      "name": "Oh_GOD_Please_NOOOShovel",
+      "type": "tool",
+      "sortid": 10,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "oh_god_please_nooo_shovel"
+    },
+    {
+      "name": "Oh_GOD_Please_NOOOHoe",
+      "type": "tool",
+      "sortid": 11,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "oh_god_please_nooo_hoe"
+    },
+    {
+      "name": "Oh_GOD_Please_NOOOPickaxeRecipe",
+      "type": "recipe",
+      "sortid": 12,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "oh_god_please_nooo_pickaxe_recipe"
+    },
+    {
+      "name": "Oh_GOD_Please_NOOOAxeRecipe",
+      "type": "recipe",
+      "sortid": 13,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "oh_god_please_nooo_axe_recipe"
+    },
+    {
+      "name": "Oh_GOD_Please_NOOOSwordRecipe",
+      "type": "recipe",
+      "sortid": 14,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "oh_god_please_nooo_sword_recipe"
+    },
+    {
+      "name": "Oh_GOD_Please_NOOOShovelRecipe",
+      "type": "recipe",
+      "sortid": 15,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "oh_god_please_nooo_shovel_recipe"
+    },
+    {
+      "name": "Oh_GOD_Please_NOOOHoeRecipe",
+      "type": "recipe",
+      "sortid": 16,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "oh_god_please_nooo_hoe_recipe"
+    },
+    {
+      "name": "Oh_GOD_Please_NOOOArmor",
+      "type": "armor",
+      "sortid": 17,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "oh_god_please_nooo_armor"
+    },
+    {
+      "name": "Oh_GOD_Please_NOOOArmorHelmetRecipe",
+      "type": "recipe",
+      "sortid": 18,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "oh_god_please_nooo_armor_helmet_recipe"
+    },
+    {
+      "name": "Oh_GOD_Please_NOOOArmorBodyRecipe",
+      "type": "recipe",
+      "sortid": 19,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "oh_god_please_nooo_armor_body_recipe"
+    },
+    {
+      "name": "Oh_GOD_Please_NOOOArmorLeggingsRecipe",
+      "type": "recipe",
+      "sortid": 20,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "oh_god_please_nooo_armor_leggings_recipe"
+    },
+    {
+      "name": "Oh_GOD_Please_NOOOArmorBootsRecipe",
+      "type": "recipe",
+      "sortid": 21,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "oh_god_please_nooo_armor_boots_recipe"
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "language_map": {
+    "en_us": {
+      "item.things.oh_god_please_nooo_axe": "Oh_GOD_Please_NOOO Axe",
+      "item.things.oh_god_please_nooo_armor_chestplate": "Oh_GOD_Please_NOOO Chestplate",
+      "block.things.oh_god_please_nooo_ore": "Oh_GOD_Please_NOOO Ore",
+      "item.things.oh_god_please_nooo_shovel": "Oh_GOD_Please_NOOO Shovel",
+      "item.things.oh_god_please_nooo_sword": "Oh_GOD_Please_NOOO Sword",
+      "item.things.oh_god_please_nooo_armor_helmet": "Oh_GOD_Please_NOOO Helmet",
+      "item.things.oh_god_please_nooo_pickaxe": "Oh_GOD_Please_NOOO Pickaxe",
+      "item.things.oh_god_please_nooo_hoe": "Oh_GOD_Please_NOOO Hoe",
+      "item.things.oh_god_please_nooo_armor_boots": "Oh_GOD_Please_NOOO Boots",
+      "block.things.oh_god_please_nooo_ore_block": "Block of Oh_GOD_Please_NOOO",
+      "item.things.oh_god_please_nooo_armor_leggings": "Oh_GOD_Please_NOOO Leggings",
+      "item.things.oh_god_please_nooo_ingot": "Oh_GOD_Please_NOOO"
+    }
+  },
+  "workspaceSettings": {
+    "modid": "things",
+    "modName": "Things",
+    "version": "1.0.0",
+    "author": "incimathcal, MCreator",
+    "websiteURL": "https://mcreator.net",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.15.2",
+    "modElementsPackage": "net.incimathcal.things",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202000432115
+}

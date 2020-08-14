@@ -1,0 +1,12 @@
+{
+  "group": "things",
+  "type": "minecraft:smelting",
+  "experience": 4.8999999999999995,
+  "cookingtime": 200,
+  "ingredient": {
+    "item": "things:oh_god_please_nooo_ore"
+  },
+  "result": {
+    "item": "things:oh_god_please_nooo_ingot"
+  }
+}

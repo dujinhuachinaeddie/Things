@@ -1,0 +1,13 @@
+{
+  "group": "things",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "things:oh_god_please_nooo_ore_block"
+    }
+  ],
+  "result": {
+    "item": "things:oh_god_please_nooo_ingot",
+    "count": 9
+  }
+}

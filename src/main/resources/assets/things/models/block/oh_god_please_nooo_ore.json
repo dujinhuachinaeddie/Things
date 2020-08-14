@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "things:blocks/oh_god_please_nooo_ore",
+    "particle": "things:blocks/oh_god_please_nooo_ore"
+  }
+}
