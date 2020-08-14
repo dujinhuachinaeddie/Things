@@ -152,7 +152,13 @@
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "oh_god_please_nooo_armor"
+      "registry_name": "oh_god_please_nooo_armor",
+      "metadata": {
+        "eh": true,
+        "el": true,
+        "eb": true,
+        "ec": true
+      }
     },
     {
       "name": "Oh_GOD_Please_NOOOArmorHelmetRecipe",
@@ -189,15 +195,31 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "oh_god_please_nooo_armor_boots_recipe"
+    },
+    {
+      "name": "OhGodpleaseno",
+      "type": "musicdisc",
+      "sortid": 22,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "oh_godpleaseno"
     }
   ],
   "variable_elements": [],
-  "sound_elements": [],
+  "sound_elements": [
+    {
+      "name": "ohgodpleaseno",
+      "file": "1597366742321445",
+      "category": "music"
+    }
+  ],
   "language_map": {
     "en_us": {
       "item.things.oh_god_please_nooo_axe": "Oh_GOD_Please_NOOO Axe",
       "item.things.oh_god_please_nooo_armor_chestplate": "Oh_GOD_Please_NOOO Chestplate",
       "block.things.oh_god_please_nooo_ore": "Oh_GOD_Please_NOOO Ore",
+      "item.things.oh_godpleaseno": "Oh God Please No",
       "item.things.oh_god_please_nooo_shovel": "Oh_GOD_Please_NOOO Shovel",
       "item.things.oh_god_please_nooo_sword": "Oh_GOD_Please_NOOO Sword",
       "item.things.oh_god_please_nooo_armor_helmet": "Oh_GOD_Please_NOOO Helmet",
@@ -206,7 +228,8 @@
       "item.things.oh_god_please_nooo_armor_boots": "Oh_GOD_Please_NOOO Boots",
       "block.things.oh_god_please_nooo_ore_block": "Block of Oh_GOD_Please_NOOO",
       "item.things.oh_god_please_nooo_armor_leggings": "Oh_GOD_Please_NOOO Leggings",
-      "item.things.oh_god_please_nooo_ingot": "Oh_GOD_Please_NOOO"
+      "item.things.oh_god_please_nooo_ingot": "Oh_GOD_Please_NOOO",
+      "item.things.oh_godpleaseno.desc": "hahaha"
     }
   },
   "workspaceSettings": {

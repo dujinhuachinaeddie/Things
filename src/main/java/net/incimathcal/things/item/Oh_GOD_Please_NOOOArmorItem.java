@@ -48,7 +48,7 @@ public class Oh_GOD_Please_NOOOArmorItem extends ThingsModElements.ModElement {
 			}
 
 			public net.minecraft.util.SoundEvent getSoundEvent() {
-				return (net.minecraft.util.SoundEvent) ForgeRegistries.SOUND_EVENTS.getValue(new ResourceLocation(""));
+				return (net.minecraft.util.SoundEvent) ForgeRegistries.SOUND_EVENTS.getValue(new ResourceLocation("things:ohgodpleaseno"));
 			}
 
 			public Ingredient getRepairMaterial() {

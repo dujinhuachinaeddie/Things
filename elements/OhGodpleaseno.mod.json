@@ -1,0 +1,17 @@
+{
+  "_fv": 10,
+  "_type": "musicdisc",
+  "definition": {
+    "texture": "ogpn",
+    "name": "Oh God Please No",
+    "description": "hahaha",
+    "creativeTab": {
+      "value": "MISC"
+    },
+    "music": {
+      "value": "CUSTOM:ohgodpleaseno"
+    },
+    "specialInfo": [],
+    "hasGlow": true
+  }
+}

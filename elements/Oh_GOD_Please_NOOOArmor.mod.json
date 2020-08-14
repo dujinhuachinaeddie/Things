@@ -46,7 +46,7 @@
     "enchantability": 63,
     "toughness": 0.0,
     "equipSound": {
-      "value": ""
+      "value": "CUSTOM:ohgodpleaseno"
     },
     "repairItems": []
   }
